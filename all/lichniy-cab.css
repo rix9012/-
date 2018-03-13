@@ -1,0 +1,86 @@
+#header{
+	width:100%;
+	height:100%;
+}
+#body{
+	width:100%;
+	height:100%;
+    display: flex;
+}
+#footer{
+	width:100%;
+	height:100px;
+	background-color:rgb(41, 82, 147);
+}
+.center {
+    width: 90%;
+	height: 100px;
+    margin: 0 auto;
+    padding: 0 15px;
+    position: relative;
+    display: -webkit-box;
+}
+.profil-content{
+    width: 100%;
+    float: right;
+    text-align: right;
+    position: relative;
+}
+.profil{
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+}
+.pluso{
+	margin-left:30px;
+	margin-top:20px;
+}
+#proecty{
+    padding-left: 5px;
+    width: 25%;
+    height: 100%;
+    display: grid;
+}
+#proecty1{
+    width: 100%;
+    height: 98%;
+    padding-bottom: 0px;
+}
+li-title{
+    font-size: 8pt;
+}
+li{
+    font-size: 9pt;
+}
+#on-proect{
+    width: 75%;
+    height: auto;
+    border: 1pt solid black;
+}
+#fon-body{
+    width: 100%;
+    background: url(fon.jpg);
+    background-size: cover; 
+    display: flex;
+}
+#on-proect-rab-obl{
+    width: 100%;
+    height: 35%;
+    border: 1pt solid black;
+}
+#data{
+    width: 190px;
+    height: 100%;
+    text-align: center;
+}
+#document{
+    width: 90px;
+    height: 80px;
+}
+text{
+    text-align: center;
+    font-size: 8pt;
+}
+#center{
+    margin-left: 18px;
+}
